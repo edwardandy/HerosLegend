@@ -19,3 +19,6 @@
 *.exe
 *.out
 *.app
+
+frameworks/cocos2d-html5
+frameworks/js-bindings
