@@ -193,3 +193,5 @@ proguard-project.txt
 project.properties
 
 runtime/
+
+.idea
